@@ -9,7 +9,7 @@ Es una aplicación de consola en Java que consume una API de tasas de cambio par
 
 - Conversión de divisas en tiempo real
 - Soporte para múltiples divisas
-- Interfaz de usuario simple basada en consola
+- Interfaz de usuario simple e intuitiva
 
 ## Requisitos
 - [Java JDK 19 o superior](https://www.oracle.com/java/technologies/javase-downloads.html)
@@ -41,4 +41,5 @@ Es una aplicación de consola en Java que consume una API de tasas de cambio par
 Monto: 100
 De (Código de la divisa de entrada, por ejemplo USD): USD
 A (Código de la divisa de salida, por ejemplo EUR): EUR
-100 USD = 85 EUR
+100 USD = 92.23
+(1 USD = 0.92 EUR)
