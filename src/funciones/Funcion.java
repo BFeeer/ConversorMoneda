@@ -6,7 +6,6 @@ import modelos.TasaCambio;
 import modelos.TasaCambioER;
 
 import java.net.http.HttpClient;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Funcion {
