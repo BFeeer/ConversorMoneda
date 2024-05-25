@@ -54,8 +54,8 @@ public class Funcion {
                 \n---------------- AYUDA ----------------
                 Para realizar una conversión es necesa-
                 rio indicar el monto inicial, el código
-                de la divisa de origen y el código de
-                la divisa de destino. Debe seguir el
+                de la divisa de entrada y el código de
+                la divisa de salida. Debe seguir el
                 siguiente formato
                 
                 Monto: 1.00     De: USD     A: GTQ
